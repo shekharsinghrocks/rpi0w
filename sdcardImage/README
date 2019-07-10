@@ -1,0 +1,2 @@
+To boot RPI0W copy all the files from this folder to the fat partition (named boot).
+Modefied the file wpa_supplicant.conf for you wifi name and password.
